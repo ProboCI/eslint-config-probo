@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-probo",
+  "version": "1.0.1",
+  "description": "ESLint settings for Probo projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "probo"
+  ],
+  "author": "ProboCI <info@probo.ci> (http://probo.ci)",
+  "contributors": [
+    "Howard Tyson <howard@zivtech.com>",
+    "Ilya Braude <ilyabraude@gmail.com>",
+    "James Cole <mail@ofjamescole.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-standard": "^4.4.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProboCI/eslint-config-probo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProboCI/eslint-config-probo/issues"
+  },
+  "homepage": "https://github.com/ProboCI/eslint-config-probo#readme"
+}
