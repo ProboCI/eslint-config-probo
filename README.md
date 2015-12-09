@@ -13,7 +13,7 @@ You can learn more about
 [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the
 official ESLint website.
 
-To use the JavaScript Standard Style shareable config, add your own `.eslintrc` file like so:
+To use the Probo's standard style shareable config, add your own `.eslintrc` file like so:
 
 ```
 {
