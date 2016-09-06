@@ -64,10 +64,6 @@ module.exports = {
       }
     ],
     'no-array-constructor': 2,
-    'space-after-keywords': [
-      2,
-      'always'
-    ],
     'strict': [
       2,
       'global'
@@ -110,7 +106,7 @@ module.exports = {
     ],
     'no-proto': 2,
     'no-undef-init': 2,
-    'space-return-throw-case': 2,
+    'keyword-spacing': 2,
     'semi': [
       2,
       'always'
@@ -133,7 +129,7 @@ module.exports = {
       'never'
     ],
     'no-label-var': 2,
-    'no-empty-label': 2,
+    'no-labels': 2,
     'computed-property-spacing': [
       2,
       'never'
